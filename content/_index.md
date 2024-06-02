@@ -11,7 +11,7 @@ The NTN Days, organized by CNRS GDRs RSD and ISIS, focus on Non-Terrestrial Netw
 
 Join us in Grenoble, France for the 2024 edition.
 
-![Grenoble](/ntndays2024/Grenoble.jpg)
+![Grenoble](/ntndays2024/grenoble.jpg)
 
 ### Topics of Interest
 
