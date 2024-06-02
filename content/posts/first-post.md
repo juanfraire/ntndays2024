@@ -1,6 +1,6 @@
 +++
 title = 'First NTN Days 2024 Post!'
-date = 2024-06-02T12:52:59-03:00
+date = 2024-06-01T12:52:59-03:00
 draft = false
 banner = "/pic-toulouse-ntn.jpg"
 +++
