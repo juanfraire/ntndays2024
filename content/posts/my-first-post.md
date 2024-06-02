@@ -4,7 +4,7 @@ date = 2024-06-02T12:52:59-03:00
 draft = false
 +++
 
-![NTN Days](pic-toulouse-ntn.jpg)
+![NTN Days](/ntndays2024/pic-toulouse-ntn.jpg)
 
 The NTN Days, organized by CNRS GDRs RSD and ISIS, focus on Non-Terrestrial Networks (NTN) communications. This event gathers researchers, industry professionals, and academics to discuss advances and challenges in NTN technologies. Topics include satellite communications, UAV networks, and other emerging technologies crucial for NTN development. 
 
