@@ -1,6 +1,6 @@
 +++
-title = 'Welcome to the NTN Days!'
-date = 2024-06-02T12:52:59-03:00
+title = 'First NTN Days 2024 Post!'
+date = 2024-06-02T12:52:59-03:01
 draft = false
 +++
 

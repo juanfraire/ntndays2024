@@ -17,3 +17,12 @@ theme = 'ananke'
     name = "Posts"
     url = "/posts/"
     weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/pages/about/"
+    weight = 3
+  [[menu.main]]
+    name = "Contact"
+    url = "/pages/contact/"
+    weight = 4
+    
