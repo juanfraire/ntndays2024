@@ -2,3 +2,18 @@ baseURL = 'https://juanfraire.github.io/ntndays2024/'
 languageCode = 'en-us'
 title = 'NTN Days - Grenoble 2024'
 theme = 'ananke'
+
+[params]
+  subtitle = "Welcome to my blog"
+  dateformat = "Mon, Jan 2, 2006"
+  logo = "images/logo.png"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
