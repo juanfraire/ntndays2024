@@ -21,4 +21,4 @@ High-Altitude Platform Systems (HAPS)\
 Satellite Internet of Things (IoT)\
 Inter-Satellite Communications\
 Delay Tolerant Networks (DTN)\
-Maritime and Aviation Communications\
+Maritime and Aviation Communications
