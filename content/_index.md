@@ -2,7 +2,7 @@
 title = "NTN Days 2024"
 date = 2024-06-02T12:52:59-03:00
 draft = false
-banner = "/ntndays2024/banner-1.png"
+featured_image = '/banner-1.jpg'
 +++
 
 ## Welcome to NTN Days 2024
@@ -11,7 +11,14 @@ The NTN Days, organized by CNRS GDRs RSD and ISIS, focus on Non-Terrestrial Netw
 
 Join us in Grenoble, France for the 2024 edition.
 
-### Highlights
-Satellite communications\
-UAV networks\
-Emerging NTN technologies
+![Grenoble](/ntndays2024/Grenoble.jpg)
+
+### Topics of Interest
+
+Integration of NTN and Terrestrial Networks\
+Unmanned Aerial Vehicle (UAV) Communications\
+High-Altitude Platform Systems (HAPS)\
+Satellite Internet of Things (IoT)\
+Inter-Satellite Communications\
+Delay Tolerant Networks (DTN)\
+Maritime and Aviation Communications\

@@ -4,9 +4,19 @@ title = 'NTN Days - Grenoble 2024'
 theme = 'ananke'
 
 [params]
+  # mainSections = ["posts", "pages"]
+  mainSections = []
+  body_classes = "avenir bg-near-white"
   subtitle = "Welcome to my blog"
   dateformat = "Mon, Jan 2, 2006"
   logo = "images/logo.png"
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = "logo.svg"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+  recent_pages_number = 3
 
 [menu]
   [[menu.main]]
@@ -18,11 +28,22 @@ theme = 'ananke'
     url = "/posts/"
     weight = 2
   [[menu.main]]
+    name = "Call"
+    url = "/pages/call/"
+    weight = 3
+  [[menu.main]]
+    name = "Program"
+    url = "/pages/program/"
+    weight = 4
+  [[menu.main]]
+    name = "Venue"
+    url = "/pages/venue/"
+    weight = 5
+  [[menu.main]]
     name = "About"
     url = "/pages/about/"
-    weight = 3
+    weight = 6
   [[menu.main]]
     name = "Contact"
     url = "/pages/contact/"
-    weight = 4
-    
+    weight = 6
