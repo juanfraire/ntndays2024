@@ -7,8 +7,8 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
   TZ: America/Los_Angeles
 
-# The Docker image that will be used to build your app
-image: golang:1.22.1-bookworm
+image:
+  name: golang:1.22.1-bookworm
 
 pages:
   script:
