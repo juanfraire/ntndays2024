@@ -7,6 +7,8 @@ featured_image = '/banner-1.jpg'
 
 ## Welcome to NTN Days 2024
 
+### October 17-18
+
 The NTN Days, organized by CNRS GDRs RSD and ISIS, focus on Non-Terrestrial Networks (NTN) communications. This event gathers researchers, industry professionals, and academics to discuss advances and challenges in NTN technologies. 
 
 Join us in Grenoble, France for the 2024 edition.
