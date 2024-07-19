@@ -9,6 +9,6 @@ banner = "/pic-toulouse-ntn.jpg"
 
 ## First NTN Days 2024 Post
 
-The NTN Days, organized by CNRS GDRs RSD and ISIS, focus on Non-Terrestrial Networks (NTN) communications. This event gathers researchers, industry professionals, and academics to discuss advances and challenges in NTN technologies. Topics include satellite communications, UAV networks, and other emerging technologies crucial for NTN development. 
+The NTN Days, organized by CNRS GDRs RSD and IASIS, focus on Non-Terrestrial Networks (NTN) communications. This event gathers researchers, industry professionals, and academics to discuss advances and challenges in NTN technologies. Topics include satellite communications, UAV networks, and other emerging technologies crucial for NTN development. 
 
 The 2024 edition will be held in Grenoble, France. For further reference, the previous edition was held in Toulouse. This was the official website [NTN Days website](https://www.irit.fr/Journees_GDR_RSD_ISIS_NTN/).

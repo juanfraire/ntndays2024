@@ -18,6 +18,9 @@ theme = 'ananke'
   recent_posts_number = 3
   recent_pages_number = 3
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [menu]
   [[menu.main]]
     name = "Home"

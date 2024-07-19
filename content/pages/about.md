@@ -6,15 +6,17 @@ draft = false
 
 ## About NTN Days 2024
 
-The NTN Days, organized by CNRS GDRs RSD and ISIS, is a premier event focusing on Non-Terrestrial Networks (NTN) communications. This annual event brings together researchers, industry professionals, and academics to discuss and explore advances in NTN technologies, including satellite communications and UAV networks. The 2024 edition will be held in Grenoble, France, and will feature a range of presentations, workshops, and networking opportunities aimed at advancing the field of NTN.
+The NTN Days, organized by CNRS GDRs RSD and IASIS, is a premier event focusing on Non-Terrestrial Networks (NTN) communications. This annual event brings together researchers, industry professionals, and academics to discuss and explore advances in NTN technologies, including satellite communications and UAV networks. The 2024 edition will be held in Grenoble, France, and will feature a range of presentations, workshops, and networking opportunities aimed at advancing the field of NTN.
 
 ## Organizing Commitee
 
-- [Franck Rousseau](Franck.Rousseau@imag.fr) (LIG)
-- [Didier Donsez](Didier.Donsez@univ-grenoble-alpes.fr) (LIG)
-- [Olivier Alphand](Olivier.Alphand@univ-grenoble-alpes.fr) (LIG)
-- [Martin Heusse](Martin.Heusse@imag.fr) (LIG)
-- [Juan Fraire](Juan.Fraire@inria.fr) (Inria Lyon)
+- [Franck Rousseau](mailto:Franck.Rousseau@imag.fr) (LIG)
+- [Didier Donsez](mailto:Didier.Donsez@univ-grenoble-alpes.fr) (LIG)
+- [Olivier Alphand](mailto:Olivier.Alphand@univ-grenoble-alpes.fr) (LIG)
+- [Martin Heusse](mailto:Martin.Heusse@imag.fr) (LIG)
+- [Juan Fraire](mailto:Juan.Fraire@inria.fr) (Inria Lyon)
+- [Tân-Phu Vuong](mailto:tan-phu.vuong@grenoble-inp.fr) (CROMA, CSUG)
+- [Maxime Guillaud](mailto:maxime.guillaud@inria.fr) (Inria Lyon)
 
 ## GDR RSD
 
